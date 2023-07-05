@@ -1,4 +1,4 @@
-# RP 2059-15 Elements
+# RP 2059-15c - _Example Data Model Coverage Report _ 
 
 _This repository is public._ 
 
@@ -10,4 +10,4 @@ Issues should be reported at <https://github.com/SMPTE/rp2059-15a/issues>. Alter
 
 ## Project details
 
-Elements for [RP 2059-15](https://github.com/SMPTE/rp2059-15) 
+Element for [RP 2059-15](https://github.com/SMPTE/rp2059-15) 
