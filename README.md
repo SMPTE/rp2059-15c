@@ -1,4 +1,4 @@
-# RP 2059-15c - _Example Data Model Coverage Report _ 
+# RP 2059-15c - _Example Data Model Coverage Report_ 
 
 _This repository is public._ 
 
